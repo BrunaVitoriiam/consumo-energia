@@ -1,8 +1,8 @@
-# ⚡ Calculadora de Consumo Elétrico Inteligente
+# ⚡ Calculadora de Consumo Elétrico
 
-Calculadora simples para estimar o consumo mensal de energia elétrica de um aparelho doméstico.
+Calculadora para estimar o consumo mensal de energia de um aparelho.
 
-## 🛠️ Tecnologias
-- Linguagem: Python 🐍
-- Git & GitHub 🟢
-- Fórmula usada: 
+## Como usar
+1. Abra o arquivo `app.py` no Python.
+2. Digite o nome do aparelho, potência e horas de uso.
+3. Veja o consumo mensal e custo estimado.
